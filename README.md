@@ -10,6 +10,8 @@
 
 </div>
 
+> **Sponsored by [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)** — production-ready Web Data APIs for AI agents and automation.
+>
 > **Search intent:** collect public lead-scoring-engine data for account research, CRM enrichment, and lead qualification. Related topics: web scraping, python, data extraction, scraper.
 
 ## What this project is for
